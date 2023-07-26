@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-my first readme 
+my first readme updated
 I'm now a ALX Student, this is my first repository as a full-stack engineer
 =======
 My first readme update
